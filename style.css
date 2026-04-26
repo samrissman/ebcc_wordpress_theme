@@ -1,0 +1,20 @@
+/*
+Theme Name:  EBCCC
+Theme URI:   https://ebccc.org.au
+Author:      East Bentleigh Child Care Centre
+Author URI:  https://ebccc.org.au
+Description: Custom WordPress theme for East Bentleigh Child Care Centre — community-run, not-for-profit long day care in East Bentleigh, Victoria. Built from a full UX/UI audit with WCAG 2.2 AA compliance, Nunito + Source Serif 4 typefaces, and a warm green/terracotta brand palette.
+Version:     1.3.3
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 8.1
+License:     GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ebccc
+Tags:        childcare, accessibility-ready, custom-menu, custom-logo, featured-images, responsive-layout
+*/
+
+/*
+ * All theme styles live in assets/css/style.css and assets/css/pages.css
+ * and are enqueued via functions.php. This file is intentionally minimal.
+ */
